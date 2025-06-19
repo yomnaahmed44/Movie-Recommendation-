@@ -1,0 +1,5 @@
+pandas
+PySide6
+scikit-learn
+fuzzywuzzy
+python-Levenshtein
